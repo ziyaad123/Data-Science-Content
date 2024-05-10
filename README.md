@@ -5,26 +5,24 @@ This repository contains comprehensive documentation and resources for learning 
 # Topics Covered:
 
 ## [1. Introduction to MySQL](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/ddl%2Cdml%2Ccommands.sql)
-
 - Brief overview of MySQL and its significance in database management.
+  ### - DDL Commands
+      - Create, Drop, Alter, Truncate commands and their usage.
+  ### - Constraints
+      - Unique, Not Null, Default, Primary Key, Foreign Key, Check constraints explained.
+  ### - 5. DML Commands
+      - Insert, Delete commands for data manipulation.
 
 ## [2. Data Types](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/In-Built%20Functions.sql )
 - Numeric, Date and Time, String data types explained.
 
-## [3. DDL Commands](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/ddl%2Cdml%2Ccommands.sql)
-- Create, Drop, Alter, Truncate commands and their usage.
-
-## [4. Constraints](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/ddl%2Cdml%2Ccommands.sql)
-- Unique, Not Null, Default, Primary Key, Foreign Key, Check constraints explained.
-
-## [5. DML Commands](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/ddl%2Cdml%2Ccommands.sql)
-- Insert, Delete commands for data manipulation.
-
 ## [6. Operators](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/Operators.sql)
 - Arithmetic, Bitwise, Comparison, Logical operators and their usage.
 
-## 7. DQL-[SELECT](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/DQL(Select).sql),[GroupBy,OrderBy,HavingBY](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/DQL(GROUP%20BY%2C%20ORDER%20BY%2C%20HAVING.)sql)
-- Select query, Group by, Order by, Having by clauses explained.
+## 7. DQL- 
+#### [SELECT](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/DQL(Select).sql)
+#### [GroupBy,OrderBy,HavingBY](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/DQL(GROUP%20BY%2C%20ORDER%20BY%2C%20HAVING.)sql)
+      - Select query, Group by, Order by, Having by clauses explained.
 
 ## [8. In-built Functions](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/In-Built%20Functions.sql )
 - String, Numeric, Date & Time functions provided by MySQL.
