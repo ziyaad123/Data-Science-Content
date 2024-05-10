@@ -7,6 +7,7 @@ This repository contains comprehensive documentation and resources for learning 
 ### 1. Introduction to MySQL
 
 - Brief overview of MySQL and its significance in database management.
+- https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/DQL(SELECT).sql
 
 ### 2. Data Types
 - Numeric, Date and Time, String data types explained.
