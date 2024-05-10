@@ -4,7 +4,7 @@ This repository contains comprehensive documentation and resources for learning 
 
 # Topics Covered:
 
-## [1. Introduction to MySQL]
+## 1. Introduction to MySQL
 
    INTRODUCTION TO MYSQL
     -> SQL or Structure Query Language
