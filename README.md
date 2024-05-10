@@ -6,7 +6,7 @@ This repository contains comprehensive documentation and resources for learning 
 
 ## 1. Introduction to MySQL
 
-   `INTRODUCTION TO MYSQL
+### `INTRODUCTION TO MYSQL
     -  > SQL or Structure Query Language
     -  >That we use to interact with relational database
     -  >SQL is a tool for organizing, managing, and retrieving archived data from a computer database.
@@ -18,7 +18,7 @@ This repository contains comprehensive documentation and resources for learning 
       - Unique, Not Null, Default, Primary Key, Foreign Key, Check constraints explained.
   ### - DML Commands
       - Insert, Delete commands for data manipulation.
-    - Creation/replacement, Dropping views in MySQL.
+      - Creation/replacement, Dropping views in MySQL.
 
 ## [3. Data Types](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/In-Built%20Functions.sql )
       - Numeric, Date and Time, String data types explained.
