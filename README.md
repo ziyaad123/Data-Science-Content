@@ -12,7 +12,7 @@ This repository contains comprehensive documentation and resources for learning 
       - Unique, Not Null, Default, Primary Key, Foreign Key, Check constraints explained.
   ### - 5. DML Commands
       - Insert, Delete commands for data manipulation.
-    -- Creation/replacement, Dropping views in MySQL.
+    - Creation/replacement, Dropping views in MySQL.
 
 ## [2. Data Types](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/In-Built%20Functions.sql )
 - Numeric, Date and Time, String data types explained.
