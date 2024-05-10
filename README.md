@@ -4,7 +4,7 @@ This repository contains comprehensive documentation and resources for learning 
 
 ## Topics Covered:
 
-### 1. [Introduction to MySQL]((https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/ddl%2Cdml%2Ccommands.sql))
+### 1. ([Introduction to MySQL](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/ddl%2Cdml%2Ccommands.sql))
 
 
 - Brief overview of MySQL and its significance in database management.
