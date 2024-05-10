@@ -4,49 +4,107 @@ Welcome to the comprehensive documentation and resources for learning about **Da
 
 ![SQL in Data Science Roadmap](https://i.imgur.com/pAeb8hf.png)
 
-## **Introduction to MySQL**
+<details>
+  <summary><strong>Introduction to MySQL</strong></summary>
 
 MySQL is a popular relational database management system that uses SQL (Structured Query Language) for organizing, managing, and retrieving data. This section provides a brief overview of MySQL and its significance in database management.
+</details>
 
-## **[DDL & DML Commands](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/ddl%2Cdml%2Ccommands.sql)**
+<details>
+  <summary><strong>DDL & DML Commands</strong></summary>
 
-🔧 Learn about **Data Definition Language (DDL)** and **Data Manipulation Language (DML)** commands, including their usage and various constraints such as Unique, Not Null, Default, Primary Key, Foreign Key, and Check constraints.
+DDL (Data Definition Language) and DML (Data Manipulation Language) are subsets of SQL used for defining and manipulating data in databases.
 
-## **[Data Types](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/In-Built%20Functions.sql)**
+- **DDL Commands**: Used to define the structure of the database.
+  - `CREATE TABLE`: Creates a new table.
+  - `ALTER TABLE`: Modifies an existing table.
+  - `DROP TABLE`: Deletes a table.
+  - `TRUNCATE TABLE`: Removes all data from a table.
+- **DML Commands**: Used to manipulate data within the database.
+  - `INSERT INTO`: Adds new records into a table.
+  - `UPDATE`: Modifies existing records in a table.
+  - `DELETE FROM`: Deletes records from a table.
+</details>
 
-📊 Understand different data types in MySQL, including Numeric, Date and Time, and String data types.
+<details>
+  <summary><strong>Data Types</strong></summary>
 
-## **[Operators](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/Operators.sql)**
+Data types define the type of data that can be stored in a column of a database table. MySQL supports various data types, including:
+- **Numeric**: INT, FLOAT, DOUBLE, etc.
+- **Date and Time**: DATE, TIME, DATETIME, TIMESTAMP, etc.
+- **String**: CHAR, VARCHAR, TEXT, etc.
+</details>
 
-➕ Explore various operators such as Arithmetic, Bitwise, Comparison, and Logical operators and their applications.
+<details>
+  <summary><strong>Operators</strong></summary>
 
-## **[DQL](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/DQL.sql)**
+Operators are used to perform operations on data. MySQL supports various types of operators, including:
+- **Arithmetic Operators**: +, -, *, /, %
+- **Comparison Operators**: =, <>, >, <, >=, <=
+- **Logical Operators**: AND, OR, NOT
+- **Bitwise Operators**: &, |, ^, ~
+</details>
 
-📝 Master the SELECT query along with GroupBy, OrderBy, and HavingBY clauses for effective data retrieval.
+<details>
+  <summary><strong>DQL</strong></summary>
 
-## **[In-built Functions](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/In-Built%20Functions.sql)**
+DQL (Data Query Language) is used to retrieve data from a database. The main DQL command is `SELECT`, which is used to retrieve data from one or more tables.
+</details>
 
-🛠️ Discover a plethora of built-in functions provided by MySQL for string manipulation, numeric operations, and date/time calculations.
+<details>
+  <summary><strong>In-built Functions</strong></summary>
 
-## **[Joins](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/Joins.sql)**
+MySQL provides a variety of built-in functions for performing operations on data. These functions include:
+- **String Functions**: CONCAT, SUBSTRING, REPLACE, etc.
+- **Numeric Functions**: ROUND, CEIL, FLOOR, etc.
+- **Date and Time Functions**: NOW, DATE_ADD, DATE_SUB, etc.
+</details>
 
-🔗 Learn about different types of joins such as Inner Join, Left Join, Full Outer Join, Cross join, and Self join for combining data from multiple tables.
+<details>
+  <summary><strong>Joins</strong></summary>
 
-## **[Normalization](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/normalizations.sql)**
+Joins are used to combine data from multiple tables based on a related column between them. MySQL supports different types of joins, including:
+- **Inner Join**: Returns records that have matching values in both tables.
+- **Left Join**: Returns all records from the left table and the matched records from the right table.
+- **Right Join**: Returns all records from the right table and the matched records from the left table.
+- **Full Outer Join**: Returns all records when there is a match in either the left or right table.
+</details>
 
-🔍 Understand the concepts of normalization including anomalies, keys, and Normal Forms (1NF, 2NF, 3NF, BCNF) to design efficient databases.
+<details>
+  <summary><strong>Normalization</strong></summary>
 
-## **[Complex Joins, Subquery, Date and Time Functions](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/complex%20joins%2Csubqueries%2C%20and%20date-time%20functions.sql)**
+Normalization is the process of organizing data in a database to reduce redundancy and improve data integrity. It involves dividing large tables into smaller tables and defining relationships between them. Normalization helps in:
+- Eliminating duplicate data.
+- Reducing data anomalies.
+- Improving data consistency.
+</details>
 
-🔄 Explore advanced join techniques, subqueries, and date/time functions for performing complex database operations.
+<details>
+  <summary><strong>Complex Joins, Subquery, Date and Time Functions</strong></summary>
 
-## **[Procedure and Functions, Cursors](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/Procedures%20%2CFunctions%20and%20Cursors.sql)**
+Advanced join techniques, subqueries, and date/time functions are used to perform complex database operations. These include:
+- **Advanced Joins**: Using multiple join conditions, self-joins, etc.
+- **Subqueries**: Nested queries used within another query.
+- **Date and Time Functions**: Manipulating date and time values in queries.
+</details>
 
-🔄 Learn about creating and using procedures, functions, and cursors to execute repetitive tasks efficiently.
+<details>
+  <summary><strong>Procedure and Functions, Cursors</strong></summary>
 
-## **[TCL Commands, Triggers, Views](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/TCL%2CTRIGGERS%2CVEIWCOMMANSD.sql)**
+Procedures, functions, and cursors are database objects used to perform specific tasks within the database.
+- **Procedures**: Precompiled SQL queries that can be executed multiple times.
+- **Functions**: Similar to procedures but return a single value.
+- **Cursors**: Used to iterate through a result set row by row.
+</details>
 
-🔀 Understand Transaction Control Language (TCL) commands like Commit, Rollback, Savepoint, along with triggers and views for maintaining data integrity and consistency.
+<details>
+  <summary><strong>TCL Commands, Triggers, Views</strong></summary>
+
+TCL (Transaction Control Language) commands, triggers, and views are used to maintain data consistency and integrity.
+- **TCL Commands**: COMMIT, ROLLBACK, SAVEPOINT.
+- **Triggers**: Special types of stored procedures that are automatically executed in response to certain events.
+- **Views**: Virtual tables created from the result of a SELECT query.
+</details>
 
 ## **Contributors**
 
@@ -69,4 +127,3 @@ Appreciation for any external resources or inspirations used in creating this re
 Guidelines for contributing to this repository, if applicable.
 
 For detailed information on each topic, refer to the respective files in this repository. Happy learning!
-
