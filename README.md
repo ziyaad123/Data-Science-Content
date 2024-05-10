@@ -12,6 +12,7 @@ This repository contains comprehensive documentation and resources for learning 
       - Unique, Not Null, Default, Primary Key, Foreign Key, Check constraints explained.
   ### - 5. DML Commands
       - Insert, Delete commands for data manipulation.
+    -- Creation/replacement, Dropping views in MySQL.
 
 ## [2. Data Types](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/In-Built%20Functions.sql )
 - Numeric, Date and Time, String data types explained.
@@ -20,8 +21,8 @@ This repository contains comprehensive documentation and resources for learning 
 - Arithmetic, Bitwise, Comparison, Logical operators and their usage.
 
 ## 7. DQL- 
-#### [SELECT](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/DQL(Select).sql)
-#### [GroupBy,OrderBy,HavingBY](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/DQL(GROUP%20BY%2C%20ORDER%20BY%2C%20HAVING.)sql)
+  ### [SELECT](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/DQL/DQL(Select).sql)
+  ### [GroupBy,OrderBy,HavingBY](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/DQL/DQL(GROUP%20BY%2C%20ORDER%20BY%2C%20HAVING.).sql)
       - Select query, Group by, Order by, Having by clauses explained.
 
 ## [8. In-built Functions](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/In-Built%20Functions.sql )
@@ -38,8 +39,7 @@ This repository contains comprehensive documentation and resources for learning 
 
 ## [12. Subqueries](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/complex%20joins%2Csubqueries%2C%20and%20date-time%20functions.sql)
 - Single row, Multi row, Correlated subqueries and their usage.
-
-## [13. Analytics Functions / Advanced Functions](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/complex%20joins%2Csubqueries%2C%20and%20date-time%20functions.sql)
+- Analytics Functions / Advanced Functions
 - RANK, DENSE_RANK, ROW_NUMBER, CUME_DIST, LAG, LEAD functions explained.
 
 ## [14. Procedure and Functions, Cursors](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/Procedures%20%2CFunctions%20and%20Cursors.sql)
@@ -47,12 +47,10 @@ This repository contains comprehensive documentation and resources for learning 
 
 ## [15. TCL Commands](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/TCL%2CTRIGGERS%2CVEIWCOMMANSD.sql)
 - Commit, Rollback, Savepoint commands for transaction control.
-
-## [16. Triggers](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/Procedures%20%2CFunctions%20and%20Cursors.sql)
+  Triggers
 - Introduction, types, and use cases of triggers.
 
-## [17. View](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/ddl%2Cdml%2Ccommands.sql)
-- Creation/replacement, Dropping views in MySQL.
+
 
 ## Contributors
 - Harsha
