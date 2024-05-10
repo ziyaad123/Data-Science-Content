@@ -2,8 +2,8 @@
 
 This repository contains comprehensive documentation and resources for learning about Database Management System (DBMS) fundamentals, focusing on MySQL. It covers various topics including Data Definition Language (DDL), Data Manipulation Language (DML), operators, query techniques, built-in functions, joins, normalization, complex joins, subqueries, date and time functions, analytics functions, procedures, functions, cursors, Transaction Control Language (TCL) commands, triggers, and views.
 
-# Topics Covered:
-----
+# Contents:
+
 ## 1. Introduction to MySQL
     ->SQL or Structure Query Language
     ->That we use to interact with relational database
