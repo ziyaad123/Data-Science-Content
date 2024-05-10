@@ -4,6 +4,7 @@ This repository contains comprehensive documentation and resources for learning 
 
 <img src="https://github.com/ziyaad123/SQL-Content/assets/150244397/edf5a00f-3e27-4626-a1f6-67031da85185" alt="SQL in Data Science Roadmap" width="400">
 
+# Centents
 
 ## **1. Introduction to MySQL: Unveiling the Power of Relational Databases**
 
