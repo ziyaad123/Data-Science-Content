@@ -2,7 +2,7 @@
 
 Welcome to an immersive journey into the realm of **Database Management Systems (DBMS)**, with a spotlight on MySQL. This comprehensive guide equips you with the essential knowledge and practical skills required to navigate the intricate world of databases effectively.
 
-![SQL in Data Science Roadmap][https://i.imgur.com/pAeb8hf.png](https://www.google.com/imgres?imgurl=https://i0.wp.com/i.pinimg.com/originals/11/4b/16/114b16a19d2291d50e1a69feb1a0edb5.jpg?resize%3D160,120&tbnid=FdUpwBLMrXmCoM&vet=1&imgrefurl=https://lendingm.com/roadmap-to-become-data-analyst-data-analyst-data-science-l/&docid=tKQhCFl73MQREM&w=5000&h=5000&itg=1&source=sh/x/im/m5/1&kgs=f8cf3e048c381a43&shem=abme,trie)
+![SQL in Data Science Roadmap](https://www.google.com/imgres?imgurl=https://i0.wp.com/i.pinimg.com/originals/11/4b/16/114b16a19d2291d50e1a69feb1a0edb5.jpg?resize%3D160,120&tbnid=FdUpwBLMrXmCoM&vet=1&imgrefurl=https://lendingm.com/roadmap-to-become-data-analyst-data-analyst-data-science-l/&docid=tKQhCFl73MQREM&w=5000&h=5000&itg=1&source=sh/x/im/m5/1&kgs=f8cf3e048c381a43&shem=abme,trie)
 
 ## **Introduction to MySQL: Unveiling the Power of Relational Databases**
 
