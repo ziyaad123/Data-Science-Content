@@ -5,8 +5,13 @@ This repository contains comprehensive documentation and resources for learning 
 # Topics Covered:
 
 ## [1. Introduction to MySQL](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/ddl%2Cdml%2Ccommands.sql)
-- Brief overview of MySQL and its significance in database management.
-  ### - DDL Commands
+
+   INTRODUCTION TO MYSQL
+    -> SQL or Structure Query Language
+    ->That we use to interact with relational database
+    ->SQL is a tool for organizing, managing, and retrieving archived data from a computer database.
+        - Brief overview of MySQL and its significance in database management.
+## [2. DDL Commands]()
       - Create, Drop, Alter, Truncate commands and their usage.
   ### - Constraints
       - Unique, Not Null, Default, Primary Key, Foreign Key, Check constraints explained.
