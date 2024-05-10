@@ -6,11 +6,12 @@ This repository contains comprehensive documentation and resources for learning 
 
 ## 1. Introduction to MySQL
 
-   INTRODUCTION TO MYSQL
-    -> SQL or Structure Query Language
-    ->That we use to interact with relational database
-    ->SQL is a tool for organizing, managing, and retrieving archived data from a computer database.
-        - Brief overview of MySQL and its significance in database management.
+   `INTRODUCTION TO MYSQL
+    -  > SQL or Structure Query Language
+    -  >That we use to interact with relational database
+    -  >SQL is a tool for organizing, managing, and retrieving archived data from a computer database.
+    -  >Brief overview of MySQL and its significance in database management.`
+    
 ## [2. DDL & DML Commands](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/ddl%2Cdml%2Ccommands.sql)
       - Create, Drop, Alter, Truncate commands and their usage.
   ### - Constraints
@@ -20,10 +21,10 @@ This repository contains comprehensive documentation and resources for learning 
     - Creation/replacement, Dropping views in MySQL.
 
 ## [3. Data Types](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/In-Built%20Functions.sql )
-- Numeric, Date and Time, String data types explained.
+      - Numeric, Date and Time, String data types explained.
 
 ## [4. Operators](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/Operators.sql)
-- Arithmetic, Bitwise, Comparison, Logical operators and their usage.
+      - Arithmetic, Bitwise, Comparison, Logical operators and their usage.
 
 ## [5. DQL](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/DQL.sql)- 
   ### SELECT
@@ -31,29 +32,29 @@ This repository contains comprehensive documentation and resources for learning 
       - Select query, Group by, Order by, Having by clauses explained.
 
 ## [6. In-built Functions](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/In-Built%20Functions.sql )
-- String, Numeric, Date & Time functions provided by MySQL.
+      - String, Numeric, Date & Time functions provided by MySQL.
 
 ## [7. Joins](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/Joins.sql)
-- Inner Join, Left Join, Full Outer Join, Cross join, Self join explained.
+      - Inner Join, Left Join, Full Outer Join, Cross join, Self join explained.
 
 ## [8. Normalization](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/normalizations.sql)
-- Anomalies, Keys, Normal Forms (1NF, 2NF, 3NF, BCNF) explained.
+      - Anomalies, Keys, Normal Forms (1NF, 2NF, 3NF, BCNF) explained.
 
 ## [9. Complex Joins, Subquery, Date and Time Functions](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/complex%20joins%2Csubqueries%2C%20and%20date-time%20functions.sql)
-- Advanced join techniques, subqueries, and date/time functions.
+      - Advanced join techniques, subqueries, and date/time functions.
 
 ## [10. Subqueries](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/complex%20joins%2Csubqueries%2C%20and%20date-time%20functions.sql)
-- Single row, Multi row, Correlated subqueries and their usage.
-- Analytics Functions / Advanced Functions
-- RANK, DENSE_RANK, ROW_NUMBER, CUME_DIST, LAG, LEAD functions explained.
+      - Single row, Multi row, Correlated subqueries and their usage.
+      - Analytics Functions / Advanced Functions
+      - RANK, DENSE_RANK, ROW_NUMBER, CUME_DIST, LAG, LEAD functions explained.
 
 ## [11. Procedure and Functions, Cursors](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/Procedures%20%2CFunctions%20and%20Cursors.sql)
-- Creation and usage of procedures, functions, and cursors.
+      - Creation and usage of procedures, functions, and cursors.
 
 ## [12. TCL Commands](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/TCL%2CTRIGGERS%2CVEIWCOMMANSD.sql)
-- Commit, Rollback, Savepoint commands for transaction control.
-  Triggers
-- Introduction, types, and use cases of triggers.
+      - Commit, Rollback, Savepoint commands for transaction control.
+   Triggers
+      - Introduction, types, and use cases of triggers.
 
 
 
