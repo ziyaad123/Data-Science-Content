@@ -5,10 +5,10 @@ This repository contains comprehensive documentation and resources for learning 
 # Topics Covered:
 
 ## 1. Introduction to MySQL
-    -  >SQL or Structure Query Language
-    -  >That we use to interact with relational database
-    -  >SQL is a tool for organizing, managing, and retrieving archived data from a computer database.
-    -  >Brief overview of MySQL and its significance in database management.
+    ->SQL or Structure Query Language
+    ->That we use to interact with relational database
+    ->SQL is a tool for organizing, managing, and retrieving archived data from a computer database.
+    ->Brief overview of MySQL and its significance in database management.
     
 ## [2. DDL & DML Commands](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/ddl%2Cdml%2Ccommands.sql)
       - Create, Drop, Alter, Truncate commands and their usage.
