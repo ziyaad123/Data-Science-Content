@@ -1,9 +1,4 @@
 /* 
-INTRODUCTION TO MYSQL
--> SQL or Structure Query Language
-->That we use to interact with relational database
--> SQL is a tool for organizing, managing, and retrieving archived data from a computer database.
-
 DATATYPES 
  NUMERIC DATA TYPE 
 1) INT(size)
