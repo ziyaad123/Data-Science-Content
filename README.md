@@ -1,8 +1,8 @@
-# Database Management System (DBMS) Basics
+# Data Science content
 
-This repository contains comprehensive documentation and resources for learning about Database Management System (DBMS) fundamentals, focusing on MySQL. It covers various topics including Data Definition Language (DDL), Data Manipulation Language (DML), operators, query techniques, built-in functions, joins, normalization, complex joins, subqueries, date and time functions, analytics functions, procedures, functions, cursors, Transaction Control Language (TCL) commands, triggers, and views.
+This repository contains comprehensive documentation and resources for learning about data science:
 
-# Topics Covered:
+## SQL:
 
 ## 1. [Introduction to MySQL](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/ddl%2Cdml%2Ccommands.sql)
 
