@@ -5,7 +5,7 @@ This repository contains comprehensive documentation and resources for learning 
 ## Topics Covered:
 
 ### 1. Introduction to MySQL
-- Contributors: Harsha, Prathmesh
+
 - Brief overview of MySQL and its significance in database management.
 
 ### 2. Data Types
