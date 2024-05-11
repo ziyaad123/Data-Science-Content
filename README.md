@@ -56,7 +56,7 @@ This repository contains comprehensive documentation and resources for learning 
 ## 1.[ Introduction to Python](https://github.com/ziyaad123/SQL-Content/blob/main/python%20content/INTRODUCTION%20TO%20PYTHON.ipynb)
 - Input output statements in python (print, input)	
 - Print function with keyword arguments (sep, end)	
-- data types in python (str, int, float, complex)	
+- data types in python (**str**, **int**, **float**, **complex**)	
 - expression,operators,type casting
 - conditional statements	
 - looping statements	
@@ -70,6 +70,23 @@ This repository contains comprehensive documentation and resources for learning 
 - **map**,**reduce** and **filter** Function
 - Global Keyword
 - **return** Keyword
+
+## 3.[ OOP's in Python](https://github.com/ziyaad123/SQL-Content/blob/main/python%20content/OOP(Object-Oriented%20Programming).ipynb)
+- Intro to OOPs principles		
+- Class and object	
+- Data encapsulation,Abstraction,Data Hiding	
+- Methods in class
+- Data members in class
+- Methods with arguments
+- Special methods
+- Constructor and Deconstructor
+
+## 4.[ Inheritance](https://github.com/ziyaad123/SQL-Content/blob/main/python%20content/Inheritance.ipynb)
+- Introduction and properties of inheritance
+- MRO (method resolution order)
+- Types of inheritance
+- Method overriding
+- Super method
 
 
 ## Contributors
