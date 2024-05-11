@@ -53,7 +53,7 @@ This repository contains comprehensive documentation and resources for learning 
 
 # Python Content:
 
-## 1.[Introduction to Python](https://github.com/ziyaad123/SQL-Content/blob/main/python%20content/INTRODUCTION%20TO%20PYTHON.ipynb)
+## 1.[ Introduction to Python](https://github.com/ziyaad123/SQL-Content/blob/main/python%20content/INTRODUCTION%20TO%20PYTHON.ipynb)
 - Input output statements in python (print, input)	
 - Print function with keyword arguments (sep, end)	
 - data types in python (str, int, float, complex)	
@@ -62,7 +62,14 @@ This repository contains comprehensive documentation and resources for learning 
 - looping statements	
 - jumping statements	
 - some special functions - len, id, type, range	
-![image](https://github.com/ziyaad123/SQL-Content/assets/124601764/eb43c8fa-cc68-4c6c-bcc7-090b737acee1)
+
+## 2.[ Functions](https://github.com/ziyaad123/SQL-Content/blob/main/python%20content/Python-Functions.ipynb)
+- Syntax
+- Parameters
+- **Lambda** Function
+- **map**,**reduce** and **filter** Function
+- Global Keyword
+- **return** Keyword
 
 
 ## Contributors
