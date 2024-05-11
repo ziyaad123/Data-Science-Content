@@ -1,4 +1,4 @@
-# Database Management System (DBMS) Basics
+# Data Science content
 
 This repository contains comprehensive documentation and resources for learning about Database Management System (DBMS) fundamentals, focusing on MySQL. It covers various topics including Data Definition Language (DDL), Data Manipulation Language (DML), operators, query techniques, built-in functions, joins, normalization, complex joins, subqueries, date and time functions, analytics functions, procedures, functions, cursors, Transaction Control Language (TCL) commands, triggers, and views.
 
@@ -64,8 +64,7 @@ This repository contains comprehensive documentation and resources for learning 
 - some special functions - len, id, type, range	
 
 ## 2.[ Functions](https://github.com/ziyaad123/SQL-Content/blob/main/python%20content/Python-Functions.ipynb)
-- Syntax
-- Parameters
+- Syntax,Parameters
 - **Lambda** Function
 - **map**,**reduce** and **filter** Function
 - Global Keyword
@@ -77,16 +76,52 @@ This repository contains comprehensive documentation and resources for learning 
 - Data encapsulation,Abstraction,Data Hiding	
 - Methods in class
 - Data members in class
-- Methods with arguments
-- Special methods
+- Methods with arguments,Special methods
 - Constructor and Deconstructor
 
 ## 4.[ Inheritance](https://github.com/ziyaad123/SQL-Content/blob/main/python%20content/Inheritance.ipynb)
 - Introduction and properties of inheritance
-- MRO (method resolution order)
-- Types of inheritance
-- Method overriding
-- Super method
+- MRO (method resolution order),Types of inheritance
+- Method overriding,Super method
+
+## 5. [ Exceptional Handling](https://github.com/ziyaad123/SQL-Content/blob/main/python%20content/exception%20handling.ipynb)
+- Definition of Exceptions	
+- Basics of Exception Handling
+- Common Built-in Exceptions
+- Handling Specific Exceptions
+- Raising Exceptions,Exception Hierarchy
+
+## 6. [ List](https://github.com/ziyaad123/SQL-Content/blob/main/python%20content/list.ipynb)
+- List methods - Append, Insert, Remove, Copy (shallow and deeo copy), Count, Extend, Index, Sort, Reverse, Clear, Pop
+- List comprehensions
+- Indexing, Slicing
+- Special Methods - reduce, map, filter, zip
+- Basic searching and sorting in a list
+
+## 7.[ Tuple](https://github.com/ziyaad123/SQL-Content/blob/main/python%20content/Tuples.ipynb)
+- Properties
+- List vs Tuple
+- Indexing and Slicing, Count and Index
+- Inbuilt functions for List and Tuple - sum, max, min, avg, len, sort
+
+## 8.[ Dictionary](https://github.com/ziyaad123/SQL-Content/blob/main/python%20content/dictionary.ipynb)
+- Intro
+- Accessing and modifying values using keys
+- Dict methods - keys(), values(), items(), etc
+- Adding and removing key-value pairs
+- Dict comprehension,Nesting dict
+- data manipulation, filtering, analysis
+- choosing betweek sets and dict
+
+## 9.[ Sets](https://github.com/ziyaad123/SQL-Content/blob/main/python%20content/Sets%20in%20Python.ipynb)
+- Creating Sets : set() constructor, curly braces {}
+- Basic Operations : Union, intersection, difference, symmetric difference
+- Set methods - add(), remove(), discard(), clear(), etc
+- Checking membership with in keyword, Set comprehension
+- Adv set operations and examples
+
+# Python Libraries
+## [NumPy](https://github.com/ziyaad123/SQL-Content/blob/main/python%20content/Numpy.ipynb)
 
 
 ## Contributors
