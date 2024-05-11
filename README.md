@@ -7,7 +7,7 @@ This repository contains comprehensive documentation and resources for learning 
 </div>
 
 
-# Contents:
+# SQL Contents:
 
 ## 1. Introduction to MySQL - 
    Delve into MySQL, a stalwart in the realm of relational database management systems.
@@ -51,6 +51,18 @@ This repository contains comprehensive documentation and resources for learning 
 ## **12. [TCL Commands](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/TCL%2CTRIGGERS%2CVEIWCOMMANSD.sql)**
 - Commit, Rollback, Savepoint commands for transaction control.
 
+# Python Content:
+
+## 1.[Introduction to Python](https://github.com/ziyaad123/SQL-Content/blob/main/python%20content/INTRODUCTION%20TO%20PYTHON.ipynb)
+- Input output statements in python (print, input)	
+- Print function with keyword arguments (sep, end)	
+- data types in python (str, int, float, complex)	
+- expression,operators,type casting
+- conditional statements	
+- looping statements	
+- jumping statements	
+- some special functions - len, id, type, range	
+![image](https://github.com/ziyaad123/SQL-Content/assets/124601764/eb43c8fa-cc68-4c6c-bcc7-090b737acee1)
 
 
 ## Contributors
