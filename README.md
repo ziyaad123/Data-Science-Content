@@ -1,12 +1,15 @@
 # Data Science content
 
 Welcome to this comprehensive repository for your SQL, Python, and library exploration journey! Whether you're a seasoned developer or just starting out, this collection provides valuable resources to enhance your skills and tackle diverse programming challenges.
+What You'll Find Here:
+
+- **Structured SQL Content**: Delve into the world of SQL with well-organized materials that guide you through fundamental concepts, practical queries, and advanced techniques.
+Python Mastery: Explore the power of Python through a curated selection of resources that cover the core language, essential libraries, and best practices.
+- **Library Deep Dives**: Uncover the potential of various Python libraries with dedicated sections that introduce their functionalities, demonstrate their usage through code examples, and provide pointers for further exploration
 
 <div style="text-align: center;">
     <img src="https://github.com/ziyaad123/SQL-Content/assets/124601764/2ea91ddf-840a-4d08-a409-b4de6638e31a" alt="SQL in Data Science Roadmap" width="500">
 </div>
-
-
 
 
 # SQL Contents:
