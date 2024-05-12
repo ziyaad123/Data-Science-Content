@@ -3,8 +3,10 @@
 This repository contains comprehensive documentation and resources for learning about Database Management System (DBMS) fundamentals, focusing on MySQL. It covers various topics including Data Definition Language (DDL), Data Manipulation Language (DML), operators, query techniques, built-in functions, joins, normalization, complex joins, subqueries, date and time functions, analytics functions, procedures, functions, cursors, Transaction Control Language (TCL) commands, triggers, and views.
 
 <div style="text-align: center;">
-    <img src="https://github.com/ziyaad123/SQL-Content/assets/150244397/14b41205-4608-4d17-a054-cfb8c2ead225" alt="SQL in Data Science Roadmap" width="500">
+    <img src="https://github.com/ziyaad123/SQL-Content/assets/124601764/2ea91ddf-840a-4d08-a409-b4de6638e31a" alt="SQL in Data Science Roadmap" width="500">
 </div>
+
+
 
 
 # SQL Contents:
