@@ -29,7 +29,7 @@ Python Mastery: Explore the power of Python through a curated selection of resou
 ## **3. [Operators](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/Operators.sql)**
 - Arithmetic, Bitwise, Comparison, Logical operators and their usage.
 
-## **4. [DQL](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/DQL.sql)**
+## **4. [DQL](https://github.com/ziyaad123/Data-Science-Content/tree/main/Sql%20content/DQL)**
 - Select query, Group by, Order by, Having by clauses explained.
 
 ## **5. [In-built Functions](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/In-Built%20Functions.sql)**
