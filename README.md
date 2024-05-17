@@ -20,40 +20,38 @@ Python Mastery: Explore the power of Python through a curated selection of resou
    management practices.
     
 ## **2. [DDL & DML Commands](https://github.com/ziyaad123/Data-Science-Content/blob/main/Sql%20content/Introduction%20To%20SQL%20(ddl%2Cdml%2Ccommands).sql)**
+- Numeric, Date and Time, String data types explained.
 - Create, Drop, Alter, Truncate commands and their usage.
 - Constraints: Unique, Not Null, Default, Primary Key, Foreign Key, Check constraints explained.
 - DML Commands: Insert, Delete commands for data manipulation.
 - Creation/replacement, Dropping views in MySQL.
 
-## **3. [Data Types](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/In-Built%20Functions.sql)**
-- Numeric, Date and Time, String data types explained.
-
-## **4. [Operators](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/Operators.sql)**
+## **3. [Operators](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/Operators.sql)**
 - Arithmetic, Bitwise, Comparison, Logical operators and their usage.
 
-## **5. [DQL](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/DQL.sql)**
+## **4. [DQL](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/DQL.sql)**
 - Select query, Group by, Order by, Having by clauses explained.
 
-## **6. [In-built Functions](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/In-Built%20Functions.sql)**
+## **5. [In-built Functions](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/In-Built%20Functions.sql)**
 - String, Numeric, Date & Time functions provided by MySQL.
 
-## **7. [Joins](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/Joins.sql)**
+## **6. [Joins](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/Joins.sql)**
 - Inner Join, Left Join, Full Outer Join, Cross join, Self join explained.
 
-## **8. [Normalization](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/normalizations.sql)**
+## **7. [Normalization](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/normalizations.sql)**
 - Anomalies, Keys, Normal Forms (1NF, 2NF, 3NF, BCNF) explained.
 
-## **9. [Complex Joins, Subquery, Date and Time Functions](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/complex%20joins%2Csubqueries%2C%20and%20date-time%20functions.sql)**
+## **8. [Complex Joins, Subquery, Date and Time Functions](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/complex%20joins%2Csubqueries%2C%20and%20date-time%20functions.sql)**
 - Advanced join techniques, subqueries, and date/time functions.
 
-## **10. [Subqueries](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/complex%20joins%2Csubqueries%2C%20and%20date-time%20functions.sql)**
+## **9. [Subqueries](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/complex%20joins%2Csubqueries%2C%20and%20date-time%20functions.sql)**
 - Single row, Multi row, Correlated subqueries and their usage.
 - Analytics Functions / Advanced Functions: RANK, DENSE_RANK, ROW_NUMBER, CUME_DIST, LAG, LEAD functions explained.
 
-## **11. [Procedure and Functions, Cursors](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/Procedures%20%2CFunctions%20and%20Cursors.sql)**
+## **10. [Procedure and Functions, Cursors](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/Procedures%20%2CFunctions%20and%20Cursors.sql)**
 - Creation and usage of procedures, functions, and cursors.
 
-## **12. [TCL Commands](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/TCL%2CTRIGGERS%2CVEIWCOMMANSD.sql)**
+## **11. [TCL Commands](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/TCL%2CTRIGGERS%2CVEIWCOMMANSD.sql)**
 - Commit, Rollback, Savepoint commands for transaction control.
 
 # Python Content:
