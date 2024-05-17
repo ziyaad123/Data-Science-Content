@@ -19,7 +19,7 @@ Python Mastery: Explore the power of Python through a curated selection of resou
    Learn how SQL (Structured Query Language) empowers MySQL to seamlessly organize, manage, and retrieve data, establishing its significance in modern database     
    management practices.
     
-## **2. [DDL & DML Commands](https://github.com/ziyaad123/SQL-Content/blob/main/Sql%20content/ddl%2Cdml%2Ccommands.sql)**
+## **2. [DDL & DML Commands](https://github.com/ziyaad123/Data-Science-Content/blob/main/Sql%20content/Introduction%20To%20SQL%20(ddl%2Cdml%2Ccommands).sql)**
 - Create, Drop, Alter, Truncate commands and their usage.
 - Constraints: Unique, Not Null, Default, Primary Key, Foreign Key, Check constraints explained.
 - DML Commands: Insert, Delete commands for data manipulation.
