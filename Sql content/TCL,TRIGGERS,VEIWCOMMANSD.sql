@@ -110,7 +110,7 @@ In mysql it is having auto commit so is doesnot make anysense transaction comman
 for this we have to use command start transaction
 */
 
-														-- Triggers 
+-- Triggers 
 
 -- Trigger is a statement that a system executes automatically when there is any modification to the database
 -- Triggers are used to specify certain integrity constraints and referential constraints that cannot be specified using the constraint mechanism of SQL
