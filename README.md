@@ -122,7 +122,11 @@ Python Mastery: Explore the power of Python through a curated selection of resou
 - Adv set operations and examples
 
 # Python Libraries
-## [NumPy](https://github.com/ziyaad123/SQL-Content/blob/main/python%20content/Numpy.ipynb)
+- [NumPy](https://github.com/ziyaad123/SQL-Content/blob/main/python%20content/Numpy.ipynb)
+- [Pandas]
+- [Matplotlib](https://github.com/ziyaad123/Data-Science-Content/blob/main/python%20content/Mathplotlib_Final.ipynb)
+- [Seaborn](https://github.com/ziyaad123/Data-Science-Content/blob/main/python%20content/Seaborn_Final.ipynb)
+- [Handling null values](https://github.com/ziyaad123/Data-Science-Content/blob/main/python%20content/Handlingnull.ipynb)
 
 
 ## Contributors
