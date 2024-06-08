@@ -7,7 +7,7 @@ Welcome to the Pandas content section of the Data-Science-Content repository! Th
 1. **[Handling Null Values](https://github.com/ziyaad123/Data-Science-Content/blob/main/python%20content/Pandas/Handlingnull.ipynb)**
    - Techniques for managing missing data in Pandas DataFrames.
 
-2. **[Pandas 1: Introduction to Pandas, Installing Pandas, Pandas Series](https://github.com/ziyaad123/Data-Science-Content/blob/main/python%20content/Pandas/Pandas%201.ipynb)**
+2. **[Pandas 1: Introduction to Pandas, Installing Pandas, Pandas Series](https://github.com/ziyaad123/Data-Science-Content/blob/main/python%20content/Pandas/Pandas-1-Introduction%20to%20Pandas%2CInstalling%20Pandas%2CPandas%20Series.ipynb)**
    - Basics of Pandas, including installation and working with Series.
 
 3. **[Pandas 2: DataFrame Creation, Data Inspection, Data Exploration](https://github.com/ziyaad123/Data-Science-Content/blob/main/python%20content/Pandas/Pandas%202.ipynb)**
