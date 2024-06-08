@@ -122,12 +122,27 @@ Python Mastery: Explore the power of Python through a curated selection of resou
 - Adv set operations and examples
 
 # Python Libraries
-- [NumPy](https://github.com/ziyaad123/SQL-Content/blob/main/python%20content/Numpy.ipynb)
-- [Pandas]
-- [Matplotlib](https://github.com/ziyaad123/Data-Science-Content/blob/main/python%20content/Mathplotlib_Final.ipynb)
-- [Seaborn](https://github.com/ziyaad123/Data-Science-Content/blob/main/python%20content/Seaborn_Final.ipynb)
-- [Handling null values](https://github.com/ziyaad123/Data-Science-Content/blob/main/python%20content/Handlingnull.ipynb)
-
+## [NumPy](https://github.com/ziyaad123/Data-Science-Content/tree/main/python%20content/Numpy)
+- Basic introduction to Numpy
+- Important functions in Numpy
+- Examples
+- Practice Questions
+## [Pandas](https://github.com/ziyaad123/Data-Science-Content/tree/main/python%20content/Pandas)
+- Basic introduction to Numpy
+- Handling Null values
+- Important functions in Numpy
+- Examples
+- Practice Questions
+## [Matplotlib](https://github.com/ziyaad123/Data-Science-Content/tree/main/python%20content/Mathplotlib)
+- Basic introduction to Numpy
+- Important functions in Numpy
+- Examples
+- Practice Questions
+## [Seaborn](https://github.com/ziyaad123/Data-Science-Content/tree/main/python%20content/Seaborn)
+- Basic introduction to Numpy
+- Important functions in Numpy
+- Examples
+- Practice Questions
 
 ## Contributors
 - [Harsha](https://www.linkedin.com/in/harsha-vardhan-reddy-n-268176285/)
