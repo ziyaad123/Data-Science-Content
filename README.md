@@ -128,19 +128,19 @@ Python Mastery: Explore the power of Python through a curated selection of resou
 - Examples
 - Practice Questions
 ## [Pandas](https://github.com/ziyaad123/Data-Science-Content/tree/main/python%20content/Pandas)
-- Basic introduction to Numpy
+- Basic introduction to Pandas
 - Handling Null values
-- Important functions in Numpy
+- Important functions in Pandas
 - Examples
 - Practice Questions
 ## [Matplotlib](https://github.com/ziyaad123/Data-Science-Content/tree/main/python%20content/Mathplotlib)
-- Basic introduction to Numpy
-- Important functions in Numpy
+- Basic introduction to Matplotlib
+- Important functions in Matplotlib
 - Examples
 - Practice Questions
 ## [Seaborn](https://github.com/ziyaad123/Data-Science-Content/tree/main/python%20content/Seaborn)
-- Basic introduction to Numpy
-- Important functions in Numpy
+- Basic introduction to Seaborn
+- Important functions in Seaborn
 - Examples
 - Practice Questions
 
