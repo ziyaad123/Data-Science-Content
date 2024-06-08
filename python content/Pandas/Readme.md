@@ -10,10 +10,10 @@ Welcome to the Pandas content section of the Data-Science-Content repository! Th
 2. **[Pandas 1: Introduction to Pandas, Installing Pandas, Pandas Series](https://github.com/ziyaad123/Data-Science-Content/blob/main/python%20content/Pandas/Pandas-1-Introduction%20to%20Pandas%2CInstalling%20Pandas%2CPandas%20Series.ipynb)**
    - Basics of Pandas, including installation and working with Series.
 
-3. **[Pandas 2: DataFrame Creation, Data Inspection, Data Exploration](https://github.com/ziyaad123/Data-Science-Content/blob/main/python%20content/Pandas/Pandas%202.ipynb)**
+3. **[Pandas 2: DataFrame Creation, Data Inspection, Data Exploration](https://github.com/ziyaad123/Data-Science-Content/blob/main/python%20content/Pandas/Pandas%202-Pandas%20dataframe%20%2C%20data%20inspection%20%2C%20data%C2%A0exploration.ipynb.ipynb)**
    - Creating DataFrames and exploring their structure and content.
 
-4. **[Pandas 3: Indexing, Selection, Data Manipulation, Transformation](https://github.com/ziyaad123/Data-Science-Content/blob/main/python%20content/Pandas/Pandas%203.ipynb)**
+4. **[Pandas 3: Indexing, Selection, Data Manipulation, Transformation](https://github.com/ziyaad123/Data-Science-Content/blob/main/python%20content/Pandas/Pandas%203-Indexing%20and%20Selection%20in%20DataFrames%2CData%20Manipulation%20and%20Transformation.ipynb)**
    - Advanced indexing, selection methods, and data manipulation techniques.
 
 ## Datasets
